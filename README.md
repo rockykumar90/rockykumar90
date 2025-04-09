@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockykumar90&label=Profile%20views&color=0e75b6&style=flat" alt="rockykumar90" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rockysighpandey" target="blank"><img src="https://img.shields.io/twitter/follow/rockysighpandey?logo=twitter&style=for-the-badge" alt="rockysighpandey" /></a> </p>
+<p align="left"> <a href="https://twitter.com/knownpersonrock" target="blank"><img src="https://img.shields.io/twitter/follow/rockysighpandey?logo=twitter&style=for-the-badge" alt="rockysighpandey" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
